@@ -1,2 +1,2 @@
 # Calculator
-A functioning calculator
+A functioning neumorphic calculator made with html, css, and javascript
